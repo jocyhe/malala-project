@@ -1,0 +1,110 @@
+.name{
+    /*margin-left: 35%;*/
+    text-align: center;
+    margin-top: 0px;
+    font-size: 50px;
+    font-family: Raleway;
+}
+
+.who{
+    text-align: center;
+    font-family: Raleway;
+    /*font-style: bold;*/
+}
+
+.profpic {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    width: 350px;
+    height: 375px;
+    margin-top: -30px;
+}
+
+.sect {
+    color: #60B5D1;
+    text-align: center;
+    margin-left: 200px;
+    font-size: 20px;
+    font-family: Raleway;
+}
+
+.sect:hover {
+    color: #37A7CC;
+    font-style: italic;
+}
+
+.backto { 
+    margin: 0px;
+    font-size: 20px;
+    font-family: Raleway;
+    color:#BCC9E6;
+}
+
+.backto:hover {
+    color: #7C9CD9;
+}
+
+.title{
+    font-family: Raleway;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10px;
+}
+
+.img {
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    margin-top: -75px;
+}
+
+.cites {
+    margin-left: 50px;
+}
+
+.text {
+    margin-left: 50px;
+    margin-right: 150px;
+}
+
+.intro {
+    margin-left: 40px;
+    margin-right: 150px;
+    font-size: 25px;
+    color: #EBB8A7;
+}
+
+.descript {
+    text-align: center;
+    margin-top: -50px;
+    margin-bottom: 30px;
+}
+
+.docu {
+    margin-left: 28%;
+}
+
+.photo {
+    margin-left: 50px;
+    width: 500px;
+    height: 300px;
+}
+
+.photo1 {
+    margin-left: 50px;
+    width: 500px;
+    height: 650px;
+}
+
+.crossword {
+    display: block;
+    margin: auto;
+    width: 650px;
+    height: 500px;
+}
+
+
+
+
